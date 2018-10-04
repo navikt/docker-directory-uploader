@@ -24,8 +24,7 @@ Dersom det er undermapper vil de lastes opp på filserveren til `<url-til-min-fi
 
 Spørsmål knyttet til koden eller prosjektet kan rettes mot:
 
-* Navn på Person, navn.person@nav.no
-* Eller en annen måte for omverden å kontakte teamet på
+* nav.team.soknad@nav.no
 
 ## For NAV-ansatte
 
