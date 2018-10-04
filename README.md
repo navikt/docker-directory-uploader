@@ -11,7 +11,7 @@ Kjøres på følgende måte
 ```
 docker run 
     -v `pwd`:/upload/files  
-    docker-directory-upload:test 
+    navikt/docker-directory-upload:1.0.0 
     <url-til-min-filserver>
 ```
 
